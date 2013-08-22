@@ -1,5 +1,6 @@
 string-kernels
 ==============
+** Use at your risk **
 
 Implementation of String Kernels from 
 
